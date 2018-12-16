@@ -16,7 +16,7 @@ The following **required** functionality is complete:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='blob:https://imgur.com/3a79550e-92d1-4b33-b19f-c6532b874786' title='Video Walkthrough' width='' alt='Video Walkthrough' />]
+<img src='https://imgur.com/3a79550e-92d1-4b33-b19f-c6532b874786' title='Video Walkthrough' width='' alt='Video Walkthrough' />]
 
 ## Notes
 
